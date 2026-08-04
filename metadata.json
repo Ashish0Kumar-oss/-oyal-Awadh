@@ -1,0 +1,6 @@
+{
+  "name": "Royal Awadh - Luxury Indian Fine Dining",
+  "description": "An ultra-modern, cinematic luxury Indian fine dining restaurant website featuring interactive menus, table reservation, chef gallery, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
